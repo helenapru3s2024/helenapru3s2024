@@ -1,6 +1,8 @@
 ## Bem vindo ao meu perfil 😄
 Meu nome é Helena Saraiva
+
 Sou aluna da terceira série do Ensino Médio e estou aprendendo a programar no itinerario formativo de robotica
+
 Utilizo esse espaço para compartilhar meus projetos e codigos da plataforma Alura
 
 <!--
